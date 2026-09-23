@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233554343756",
+    "project_id": "damk-hayat",
+    "storage_bucket": "damk-hayat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233554343756:android:2917b6aa2ac23d363681e9",
+        "android_client_info": {
+          "package_name": "com.damkhayat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFbq5A1J0l1MEhzDPEMTUPdedgthCF8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
